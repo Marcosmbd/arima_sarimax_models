@@ -7,6 +7,7 @@ numpy <br>
 matplotlib <br>
 joblib <br>
 matplotlib <br>
+warnings <br>
 statsmodels <br>
 
 ## Utilize o comando "!pip install (nome)" no jupyter para instalá-los
