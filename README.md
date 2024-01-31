@@ -9,6 +9,7 @@ joblib <br>
 matplotlib <br>
 warnings <br>
 statsmodels <br>
+optuna <br>
 
 ## Utilize o comando "!pip install (nome)" no jupyter para instalá-los
 
