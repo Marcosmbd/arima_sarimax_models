@@ -11,7 +11,7 @@ warnings <br>
 statsmodels <br>
 optuna <br>
 
-## Utilize o comando "!pip install (nome)" no jupyter para instalá-los
+## Utilize o comando "!pip install (nome)" no jupyter para instalá-los!
 
 ## Resumo <br>
 Esta é uma análise de série temporal feita por Machine Learning em python, que tem <br>
