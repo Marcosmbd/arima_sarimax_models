@@ -1,4 +1,4 @@
-## Modelos de Série Temporal ARIMA,ARMA/SARIMAX)
+## Modelos de Série Temporal (ARIMA,ARMA/SARIMAX)
 
 ### Install python (você vai precisar instalar estes pacotes)
 
